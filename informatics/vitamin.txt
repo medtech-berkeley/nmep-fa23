@@ -1,0 +1,48 @@
+What is the p-value in hypothesis testing?
+
+a) The probability of rejecting the null hypothesis when it is true.
+b) The probability of accepting the null hypothesis when it is false.
+c) The probability of observing the data or more extreme results if the null hypothesis is true.
+d) The probability of a Type II error.
+
+Which numpy function is used to calculate the mean of an array?
+
+a) numpy.sum()
+b) numpy.mean()
+c) numpy.median()
+d) numpy.std()
+
+To create a 2D array in numpy, you can use the function:
+
+a) numpy.array()
+b) numpy.ndarray()
+c) numpy.matrix()
+d) numpy.zeros()
+
+In a t-test comparing two means, a small p-value (typically ≤ α) indicates:
+
+a) Strong evidence against the null hypothesis.
+b) Weak evidence against the null hypothesis.
+c) Strong evidence in favor of the null hypothesis.
+d) Weak evidence in favor of the null hypothesis.
+
+What does a p-value of 0.05 signify in hypothesis testing with a 95% confidence level?
+
+a) There is a 5% chance of making a Type I error.
+b) There is a 5% chance of making a Type II error.
+c) The null hypothesis is 5% likely to be true.
+d) There is a 5% chance that the observed result occurred by random chance.
+
+In matplotlib, which function is used to create a scatter plot?
+
+a) plot()
+b) scatter()
+c) draw_scatter()
+d) show()
+
+In pandas, which method is used to drop rows with missing values from a DataFrame?
+
+a) remove()
+b) dropna()
+c) clear()
+d) fillna()
